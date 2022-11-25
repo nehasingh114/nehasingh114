@@ -55,3 +55,15 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehasingh114&show_icons=true&locale=en" alt="nehasingh114" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehasingh114&" alt="nehasingh114" /></p>
+
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/nehasingh114/github-readme-activity-graph"><img alt="nehasingh114's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nehasingh114&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<br/>
